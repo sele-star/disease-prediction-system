@@ -1,0 +1,17 @@
+{
+  "original_shape": [
+    4920,
+    134
+  ],
+  "empty_or_index_columns_removed": [
+    "Unnamed: 133"
+  ],
+  "original_records": 4920,
+  "exact_duplicate_records_removed": 4616,
+  "unique_records": 304,
+  "predictor_count": 132,
+  "disease_class_count": 41,
+  "missing_values_after_column_removal": 0,
+  "minimum_unique_records_per_class": 5,
+  "maximum_unique_records_per_class": 10
+}
